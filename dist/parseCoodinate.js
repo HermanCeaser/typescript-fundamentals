@@ -18,4 +18,3 @@ function parseCoordinate(arg1, arg2) {
 console.log(parseCoordinate("x:12,y:24"));
 console.log(parseCoordinate({ x: 10, y: 25 }));
 console.log(parseCoordinate(1, 2));
-//# sourceMappingURL=parseCoodinate.js.map
